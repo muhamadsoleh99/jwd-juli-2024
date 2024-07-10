@@ -1,4 +1,7 @@
 Materi JWD Juli 2024
 Pertemuan 1 : Instalasi
+- Git
+- XAMPP
+- VS Code
 Pertemuan 2 : UI UX
 Pertemuan 3 : ALgoritma
