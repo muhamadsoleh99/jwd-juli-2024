@@ -3,5 +3,6 @@ Pertemuan 1 : Instalasi
 - Git
 - XAMPP
 - VS Code
+- Mendaftar akun Github
 Pertemuan 2 : UI UX
 Pertemuan 3 : ALgoritma
